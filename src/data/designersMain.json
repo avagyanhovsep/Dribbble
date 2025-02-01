@@ -1,0 +1,1128 @@
+[
+    {
+        "id": 1,
+        "category": "Product Design",
+        "avatar": "https://cdn.dribbble.com/users/12667116/avatars/normal/28f729c02eb3a5fca1e19b5533db2eeb.png?1696317179",
+        "images": [
+            "https://cdn.dribbble.com/userupload/16566535/file/original-e9dfda2a6d12be7ce6b8caa3b9ca0e6a.png?resize=752x&vertical=center", 
+            "https://cdn.dribbble.com/userupload/9729076/file/original-979042b56bdb59d71aedaa3eedf6df01.png?resize=752x&vertical=center", 
+            "https://cdn.dribbble.com/userupload/10414548/file/original-5322e2e2b040aa25f2ee6861b8ec89d2.png?format=webp&resize=640x480&vertical=center", 
+            "https://cdn.dribbble.com/userupload/13040960/file/still-b23cdea301bcaba4cf16462d914c6c24.png?format=webp&resize=640x480&vertical=center", 
+            "https://cdn.dribbble.com/userupload/11105324/file/original-66789cf7c0f33c7034b06c38756c9bdc.png?crop=94x96-3064x2324&format=webp&resize=640x480&vertical=center"
+        ],
+        "username": "Dipa Product",
+        "subscription": "Team",
+        "location": [true, "Bandung, Indonesia"],
+        "pricing": [true, 350],
+        "respond_time": 19,
+        "service_availability": false,
+        "skills_tags": [
+            "ios",
+            "web app development", 
+            "mobile first", 
+            "web applications", 
+            "web app design", 
+            "dashboard", 
+            "mobile design", 
+            "web apps",
+            "responsive design",
+            "graphic design",
+            "user interface (ui)",
+            "product design",
+            "mobile interface", 
+            "interaction design",
+            "android app design", 
+            "ui design"
+        ]
+    },
+    {
+        "id": 2,
+        "category": "Product Design",
+        "avatar": "https://cdn.dribbble.com/users/702789/avatars/normal/62dc313bebbc78f08ffd3076b6228377.png?1646754829",
+        "images": [
+            "https://cdn.dribbble.com/userupload/8708592/file/original-5d5397116fbee96e5d2331498b2c9b34.png?format=webp&resize=640x480&vertical=center", 
+            "https://cdn.dribbble.com/userupload/13933070/file/original-1735c44299464246eab29111da23b9ec.jpg?crop=0x0-3201x2401&format=webp&resize=640x480&vertical=center", 
+            "https://cdn.dribbble.com/users/702789/screenshots/4640130/preview.png?format=webp&resize=640x480&vertical=center", 
+            "https://cdn.dribbble.com/users/702789/screenshots/7058996/media/ea7a0de102ccf743010697f753ad5490.png?format=webp&resize=640x480&vertical=center", 
+            "https://cdn.dribbble.com/userupload/8814446/file/still-030cac511605f84b4bda0f7795d68c0e.png?format=webp&resize=640x480&vertical=center",
+            "https://cdn.dribbble.com/userupload/12275140/file/original-5ce8f3f7dbf303d0d52356fb110c9c24.png?format=webp&resize=640x480&vertical=center"
+        ],
+        "username": "Outcrowd",
+        "subscription": "Team",
+        "location": [true, "United States"],
+        "pricing": [true, 2300],
+        "respond_time": 304,
+        "service_availability": false,
+        "skills_tags": [
+            "ios design",
+            "landing page", 
+            "app design", 
+            "3d illustration", 
+            "brand identity development", 
+            "website redesign", 
+            "logo design", 
+            "website design",
+            "branding", 
+            "ux",
+            "ui",
+            "web design",
+            "mobile",
+            "product design",
+            "graphic design"
+        ]
+    },
+    {
+        "id": 3,
+        "category": "Product Design",
+        "avatar": "https://cdn.dribbble.com/users/485324/avatars/normal/479e0aa76edbad47c51f159fd88e2bfa.png?1551975218",
+        "images": [
+            "https://cdn.dribbble.com/users/1312595/screenshots/7193200/media/f87abd35556b2b3900f8a833187d3108.png?format=webp&resize=640x480&vertical=center", 
+            "https://cdn.dribbble.com/users/512844/screenshots/6743107/dribbble_4x.png?format=webp&resize=640x480&vertical=center", 
+            "https://cdn.dribbble.com/users/1312595/screenshots/11086800/media/7602880e51ae6ae03e1f4abc5ba10eb4.png?format=webp&resize=400x300&vertical=center", 
+            "https://cdn.dribbble.com/users/1312595/screenshots/10038399/media/81394a038e151caaace318e47e56d7a5.png?format=webp&resize=640x480&vertical=center", 
+            "https://cdn.dribbble.com/users/1997192/screenshots/11119379/media/b66322b976962064f9b6a6c943879a8b.png?format=webp&resize=640x480&vertical=center", 
+            "https://cdn.dribbble.com/users/512844/screenshots/6821553/shop.png?format=webp&resize=640x480&vertical=center"
+        ],
+        "username": "Fireart Studio",
+        "subscription": "Pro",
+        "location": [true, "Warsaw, Poland"],
+        "pricing": [true, 1500],
+        "respond_time": 4833,
+        "service_availability": [true, 2],
+        "skills_tags": [
+            "react native",
+            "icon", 
+            "design", 
+            "development", 
+            "gif animation", 
+            "react.js", 
+            "node.js", 
+            "javascript",
+            "mobile",
+            "illustration",
+            "product design"
+        ]
+    },
+    {
+        "id": 4,
+        "category": "Product Design",
+        "avatar": "https://cdn.dribbble.com/users/1832625/avatars/normal/d0a819596a87076630326f81799e85c0.jpg?1586442553",
+        "images": [
+            "https://cdn.dribbble.com/userupload/17196238/file/original-2efa2295a43b9ffd2ec31a26edb779fc.png?format=webp&resize=640x480&vertical=center", 
+            "https://cdn.dribbble.com/users/2188585/screenshots/5933613/media/447696a021d02dfaae75813c32461e75.png?format=webp&resize=640x480&vertical=center", 
+            "https://cdn.dribbble.com/userupload/7025628/file/still-6d73822783b9c326f7bb3a1432dbe81d.png?format=webp&resize=640x480&vertical=center", 
+            "https://cdn.dribbble.com/users/1430543/screenshots/5313483/shot_3_4x.jpg?format=webp&resize=640x480&vertical=center", 
+            "https://cdn.dribbble.com/users/1430543/screenshots/6195531/media/07a57d0dbb1cdee2e37d38f74c901686.jpg?format=webp&resize=640x480&vertical=center"
+        ],
+        "username": "Geex Arts",
+        "subscription": "Pro",
+        "location": [true, "San Francisco, CA"],
+        "pricing": [true, 900],
+        "respond_time": 192,
+        "service_availability": false,
+        "skills_tags": [
+            "defi",
+            "motion design", 
+            "web3", 
+            "nft", 
+            "crypto", 
+            "uiux design", 
+            "product design", 
+            "ux",
+            "3d animation",
+            "graphic design",
+            "branding",
+            "web design"
+        ]
+    },
+    {
+        "id": 5,
+        "category": "Product Design",
+        "avatar": "https://cdn.dribbble.com/users/4827542/avatars/normal/24ad60bd15edc3f5a7054da8f3e96356.jpg?1610231595",
+        "images": [
+            "https://cdn.dribbble.com/userupload/13963162/file/original-c95a64faac9dd9f81bbaa053e7348dda.jpg?format=webp&resize=640x480&vertical=center", 
+            "https://cdn.dribbble.com/userupload/15213040/file/original-5e7c876eec1350fa0e1bdc2fc76f0ff4.jpg?format=webp&resize=640x480&vertical=center", 
+            "https://cdn.dribbble.com/userupload/16314531/file/original-a2de92c7ff04a8e890975fc483218a7e.jpg?format=webp&resize=640x480&vertical=center", 
+            "https://cdn.dribbble.com/userupload/3252811/file/original-cdd6d30afad2e69c104909e0d0323045.jpg?format=webp&resize=640x480&vertical=center", 
+            "https://cdn.dribbble.com/userupload/3252811/file/original-cdd6d30afad2e69c104909e0d0323045.jpg?format=webp&resize=640x480&vertical=center"
+        ],
+        "username": "Marka Works Branding Agency",
+        "subscription": "Pro",
+        "location": [true, "Antalya, Turkey"],
+        "pricing": [true, 2500],
+        "respond_time": 3,
+        "service_availability": [true, 6],
+        "skills_tags": [
+            "brand creation",
+            "brand guidelines", 
+            "label design", 
+            "rebranding", 
+            "emblem", 
+            "logotype", 
+            "web design", 
+            "branding"
+        ]
+    },
+    {
+        "id": 6,
+        "category": "Product Design",
+        "avatar": "https://cdn.dribbble.com/users/14501/avatars/normal/dribbble-avatar.png?1384349285",
+        "images": [
+            "https://cdn.dribbble.com/users/14501/screenshots/1900216/preview.jpg?format=webp&resize=640x480&vertical=center", 
+            "https://cdn.dribbble.com/users/14501/screenshots/2000118/preview.png?format=webp&resize=640x480&vertical=center", 
+            "https://cdn.dribbble.com/userupload/10526059/file/original-4d88d569cb5457f31e1c6e9fb8a3beaf.png?format=webp&resize=640x480&vertical=center", 
+            "https://cdn.dribbble.com/users/14501/screenshots/2357119/post-1.png?format=webp&resize=640x480&vertical=center", 
+            "https://cdn.dribbble.com/users/14501/screenshots/1408540/media/f5d13336146cbac064ee843b72474cb6.png?format=webp&resize=640x480&vertical=center",
+            "https://cdn.dribbble.com/users/14501/screenshots/3397349/preview.jpg?format=webp&resize=640x480&vertical=center"
+        ],
+        "username": "Ionut Zamfir",
+        "subscription": "Pro",
+        "location": false,
+        "pricing": [true, 450],
+        "respond_time": 339,
+        "service_availability": [true, 5],
+        "skills_tags": [
+            "android app design",
+            "web ui", 
+            "ios design", 
+            "ui", 
+            "web design", 
+            "ux", 
+            "mobile design"
+        ]
+    },
+    {
+        "id": 7,
+        "category": "Product Design",
+        "avatar": "https://cdn.dribbble.com/users/257123/avatars/normal/1bb8e9ee570185f17039803737bf48f4.png?1732166468",
+        "images": [
+            "https://cdn.dribbble.com/users/257123/screenshots/4233771/media/050eeefdaddf4d2769131f19775fa8e9.png?format=webp&resize=640x480&vertical=center", 
+            "https://cdn.dribbble.com/userupload/14735473/file/original-cb8d456e80037fda2b6faecda1f4f367.jpg?format=webp&resize=640x480&vertical=center", 
+            "https://cdn.dribbble.com/userupload/16802471/file/original-845c27477261e830bc5a14f4b192b959.jpg?crop=0x0-1600x1200&format=webp&resize=640x480&vertical=center", 
+            "https://cdn.dribbble.com/userupload/14554435/file/original-4829c800f612cbe3d1a2a07aecbbbb02.jpg?format=webp&resize=640x480&vertical=center", 
+            "https://cdn.dribbble.com/userupload/16933494/file/original-04d1451ceaf3ab9f7c2531c5502067f5.png?crop=0x0-1920x1440&format=webp&resize=640x480&vertical=center", 
+            "https://cdn.dribbble.com/userupload/15822931/file/original-222cae1cff98524c91ab4773062a2f33.png?format=webp&resize=640x480&vertical=center"
+        ],
+        "username": "Kemal Sanli",
+        "subscription": "Team",
+        "location": [true, "Istambul, Turkey"],
+        "pricing": [true, 4950],
+        "respond_time": 24,
+        "service_availability": false,
+        "skills_tags": [
+            "editorial design",
+            "illustration", 
+            "icon", 
+            "pattern design", 
+            "motion graphics", 
+            "illustration", 
+            "figma", 
+            "graphic design",
+            "ui"
+        ]
+    },
+    {
+        "id": 8,
+        "category": "Product Design",
+        "avatar": "https://cdn.dribbble.com/users/207046/avatars/normal/3cf440965628a56a521da9fdc45011ac.png?1710421930",
+        "images": [
+            "https://cdn.dribbble.com/userupload/15075763/file/still-fec9769d84bd23b60cda952ee2cb265e.png?resize=640x480&vertical=center", 
+            "https://cdn.dribbble.com/userupload/14323615/file/original-be0c7bcab06128f1d7bce00fe76482c9.jpg?resize=640x480&vertical=center", 
+            "https://cdn.dribbble.com/userupload/13917802/file/original-583c5cc868081d601fd65ff35a4049cb.jpg?resize=640x480&vertical=center", 
+            "https://cdn.dribbble.com/userupload/8210514/file/still-4529021a808286de36cefd28c59d063d.png?resize=640x480&vertical=center", 
+            "https://cdn.dribbble.com/userupload/13877217/file/still-0c5f258b93c61a28ad1fe6604c2121da.png?resize=640x480&vertical=center"
+        ],
+        "username": "Balkan Brothers",
+        "subscription": "Pro",
+        "location": [true, "Croatia"],
+        "pricing": false,
+        "respond_time": 474,
+        "service_availability": false,
+        "skills_tags": [
+            "websites",
+            "development", 
+            "front end development", 
+            "visual identity design", 
+            "wordpress", 
+            "dashboard", 
+            "design systems", 
+            "ux",
+            "branding"
+        ]
+    },
+    {
+        "id": 9,
+        "category": "Web Design",
+        "avatar": "https://cdn.dribbble.com/users/8243583/avatars/normal/2d06d13d01f3cab0bfad582fa431a50f.png?1730235561",
+        "images": [
+            "https://cdn.dribbble.com/userupload/3369157/file/still-ecd04f7915ed6b63722fdfbec589913a.png?format=webp&resize=450x338&vertical=center", 
+            "https://cdn.dribbble.com/userupload/16296347/file/original-0bac4c0ceb6b8f7512eef47264f3fd16.png?format=webp&resize=450x338&vertical=center", 
+            "https://cdn.dribbble.com/userupload/3844267/file/still-127c75a6ee5c1de8e2dcae6073a7f7d1.png?format=webp&resize=450x338&vertical=center", 
+            "https://cdn.dribbble.com/userupload/10655463/file/original-3f9104167f003618cc315881a3bc38a3.png?format=webp&resize=450x338&vertical=center", 
+            "https://cdn.dribbble.com/userupload/14220287/file/still-1dbc8389ae56ac220534c169e3e134cf.png?format=webp&resize=450x338&vertical=center", 
+            "https://cdn.dribbble.com/userupload/8316152/file/still-9d196a1d35cbf5e4c5e7256410ae2bc1.png?format=webp&resize=450x338&vertical=center"
+        ],
+        "username": "Lazarev. | Web Design",
+        "subscription": "Pro",
+        "location": [true, "San Francisco, CA"],
+        "pricing": [true, 550],
+        "respond_time": 193,
+        "service_availability": false,
+        "skills_tags": [
+            "site",
+            "ecommerce", 
+            "landing page", 
+            "corporate", 
+            "webflow", 
+            "responsive web", 
+            "wireframing", 
+            "web applications",
+            "ui",
+            "user interface (ui)",
+            "animation",
+            "website redesign",
+            "web design"
+        ]
+    },
+    {
+        "id": 10,
+        "category": "Web Design",
+        "avatar": "https://cdn.dribbble.com/users/418188/avatars/normal/427ef1baf4b90c9ccdd2a25fa272fe73.jpg?1635929741",
+        "images": [
+            "https://cdn.dribbble.com/userupload/3490249/file/original-a3b0db095e3aa2af5c23b93299619a37.jpg?format=webp&resize=450x338&vertical=center", 
+            "https://cdn.dribbble.com/userupload/3930706/file/original-d354a70bcb46aad28cb4e292fe6d5149.png?format=webp&resize=450x338&vertical=center", 
+            "https://cdn.dribbble.com/userupload/3356658/file/original-c272cdf51d360b3b6a7b718722f7ade2.png?format=webp&resize=450x338&vertical=center", 
+            "https://cdn.dribbble.com/users/418188/screenshots/16552671/media/05a008ff5ddb9bc724bfc31bab33cca0.png?format=webp&resize=450x338&vertical=center", 
+            "https://cdn.dribbble.com/userupload/3239190/file/original-5eb24cf0aee31b70f19511fc7d5c4769.jpg?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/4241205/file/original-fb2cbd660aa6fdbe600f929abe979891.png?format=webp&resize=450x338&vertical=center"
+        ],
+        "username": "tubik",
+        "subscription": "Pro",
+        "location": [true, "Ukraine"],
+        "pricing": [true, 500],
+        "respond_time": 66,
+        "service_availability": [true, 1],
+        "skills_tags": [
+            "video animation",
+            "digital art", 
+            "interaction design", 
+            "identity and branding", 
+            "ios design", 
+            "animation", 
+            "icon", 
+            "ui",
+            "illustration",
+            "ux", 
+            "web design",
+            "graphic design",
+            "logo",
+            "mobile"
+        ]
+    },
+    {
+        "id": 11,
+        "category": "Web Design",
+        "avatar": "https://cdn.dribbble.com/users/78703/avatars/normal/566d818962c5a3f9413d7052dfaed60e.png?1717815764",
+        "images": [
+            "https://cdn.dribbble.com/users/2426836/screenshots/6384474/seatos_01_2x_4x.png?resize=450x338&vertical=center", 
+            "https://cdn.dribbble.com/users/2556337/screenshots/15511199/media/682b6af9ee582e23b28de7044f19ea35.png?resize=450x338&vertical=center", 
+            "https://cdn.dribbble.com/users/2426836/screenshots/5342732/lifestyle__4x.png?resize=450x338&vertical=center", 
+            "https://cdn.dribbble.com/users/2426836/screenshots/6327179/re_5_4x.png?resize=450x338&vertical=center", 
+            "https://cdn.dribbble.com/userupload/3229038/file/original-0637e73eee5aa35c4d02ed94f6e99aa1.png?resize=450x338&vertical=center"
+        ],
+        "username": "BN Digital",
+        "subscription": "Pro",
+        "location": [true, "London, United Kingdom"],
+        "pricing": false,
+        "respond_time": 32,
+        "service_availability": [true, 6],
+        "skills_tags": [
+            "dashboard",
+            "mobile", 
+            "development", 
+            "branding", 
+            "web design", 
+            "product design"
+        ]
+    },
+    {
+        "id": 12,
+        "category": "Web Design",
+        "avatar": "https://cdn.dribbble.com/users/7142728/avatars/normal/1947d79d3d7042e06db9ca3cd55d93cb.png?1615062154",
+        "images": [
+            "https://cdn.dribbble.com/userupload/17128772/file/original-2f081a60dcb2f939149c8b4124437bd3.png?format=webp&resize=450x338&vertical=center", 
+            "https://cdn.dribbble.com/userupload/2838354/file/original-6de5561a028418733d065bfbc7e410ca.png?format=webp&resize=450x338&vertical=center", 
+            "https://cdn.dribbble.com/userupload/2791025/file/still-28f953c967fe5f27cdefdfb745f721e9.png?format=webp&resize=450x338&vertical=center", 
+            "https://cdn.dribbble.com/userupload/13003379/file/original-6c76475ea2f0d33f87c3b1036342f1f7.png?format=webp&resize=450x338&vertical=center", 
+            "https://cdn.dribbble.com/users/1684108/screenshots/17363477/media/0ac4938aac8c1b33220a90d4f23b38e8.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/2918727/file/original-6bfc75431dbcdabfeaf47a8b4f34817b.jpg?format=webp&resize=450x338&vertical=center"
+        ],
+        "username": "QClay",
+        "subscription": "Team",
+        "location": [true, "San Francisco, CA"],
+        "pricing": [true, 8500],
+        "respond_time": 5,
+        "service_availability": false,
+        "skills_tags": [
+            "service",
+            "platform", 
+            "landing", 
+            "banking", 
+            "defi", 
+            "gambling", 
+            "crypto", 
+            "ai",
+            "saas",
+            "cryptocurrency",
+            "app design",
+            "web design",
+            "landing page",
+            "fintech",
+            "dashboard"
+        ]
+    },
+    {
+        "id": 13,
+        "category": "Web Design",
+        "avatar": "https://cdn.dribbble.com/users/13307/avatars/normal/7a44ad2618c0c55b6ed78bc4125ebfed.jpg?1727690167",
+        "images": [
+            "https://cdn.dribbble.com/users/13307/screenshots/1491024/web_design.jpg?format=webp&resize=450x338&vertical=center", 
+            "https://cdn.dribbble.com/users/13307/screenshots/1503257/web_design.jpg?format=webp&resize=450x338&vertical=center", 
+            "https://cdn.dribbble.com/users/13307/screenshots/1681567/web_design.jpg?format=webp&resize=450x338&vertical=center", 
+            "https://cdn.dribbble.com/users/13307/screenshots/1473868/web_design.jpg?format=webp&resize=450x338&vertical=center", 
+            "https://cdn.dribbble.com/userupload/14672831/file/still-a53a69fcc88d14824fb3aa40b03b8dc7.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/users/13307/screenshots/11894375/media/dcca65dc801c9d53383190e4fa7156bc.jpg?format=webp&resize=450x338&vertical=center"
+        ],
+        "username": "Mike | Creative Mints",
+        "subscription": "Pro",
+        "location": [true, "Prague, Czech Republic"],
+        "pricing": false,
+        "respond_time": 7478,
+        "service_availability": [true, 5],
+        "skills_tags": [
+            "mobile",
+            "icon", 
+            "iphone", 
+            "design", 
+            "illustration", 
+            "graphic design", 
+            "ux", 
+            "ui",
+            "web design"
+        ]
+    },
+    {
+        "id": 14,
+        "category": "Illustration",
+        "avatar": "https://cdn.dribbble.com/users/12668971/avatars/normal/6763f7e89d9093658d8104515e7cfccc.png?1696317557",
+        "images": [
+            "https://cdn.dribbble.com/userupload/14090139/file/original-4d474df9f48571c828115d6abc0b2b8c.jpg?format=webp&resize=450x338&vertical=center", 
+            "https://cdn.dribbble.com/userupload/11244095/file/original-114418c55f7b75222def121972eb1ba9.png?crop=0x0-4800x3600&format=webp&resize=450x338&vertical=center", 
+            "https://cdn.dribbble.com/userupload/15447428/file/still-464c4244d7dd08e53e038832bb1d14f8.png?format=webp&resize=450x338&vertical=center", 
+            "https://cdn.dribbble.com/userupload/13876762/file/original-c18190a45d647238ec4e15e6ea4c1110.png?crop=0x0-3201x2401&format=webp&resize=450x338&vertical=center", 
+            "https://cdn.dribbble.com/userupload/14280930/file/still-c62592df59c0f458f5e626a1345f47d6.png?format=webp&resize=450x338&vertical=center"
+        ],
+        "username": "Dipa Illustration",
+        "subscription": "Pro",
+        "location": [true, "Yogyakarta, Indonesia"],
+        "pricing": [true, 6500],
+        "respond_time": 238,
+        "service_availability": [true, 3],
+        "skills_tags": [
+            "vector",
+            "character", 
+            "vector art", 
+            "3d art", 
+            "agency", 
+            "vector illustration", 
+            "digital illustration", 
+            "illustration",
+            "startups", 
+            "drawing", 
+            "2d",
+            "3d",
+            "isometric"
+        ]
+    },
+    {
+        "id": 15,
+        "category": "Illustration",
+        "avatar": "https://cdn.dribbble.com/users/5276/avatars/normal/dbb8a09fa15c56b2cc0c5632dc37a449.jpg?1534262382",
+        "images": [
+            "https://cdn.dribbble.com/users/5276/screenshots/2016886/media/e3ef6f6a9632b74627550c53d23e9045.jpg?format=webp&resize=450x338&vertical=center", 
+            "https://cdn.dribbble.com/userupload/15182613/file/original-77b9aa2822d475a46109e38004d53933.jpg?format=webp&resize=450x338&vertical=center", 
+            "https://cdn.dribbble.com/users/5276/screenshots/734237/media/3f8a69519dc6be0b71295f26af1bd152.jpg?format=webp&resize=400x300&vertical=center", 
+            "https://cdn.dribbble.com/users/5276/screenshots/3429699/media/cda1c62a62fa9fb02b043deb74e93b3c.jpg?format=webp&resize=450x338&vertical=center", 
+            "https://cdn.dribbble.com/userupload/4446449/file/original-375082ceed9c88ee4af1e2a17c80fa2b.jpg?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/4251611/file/original-6844932dc9e4c8ac0be50a28dcfb8f2d.jpg?format=webp&resize=450x338&vertical=center"
+        ],
+        "username": "Kendrick Kidd",
+        "subscription": "Team",
+        "location": [true, "Jacksonville, FL"],
+        "pricing": false,
+        "respond_time": 43,
+        "service_availability": false,
+        "skills_tags": [
+            "packaging",
+            "apparel design", 
+            "lettering", 
+            "illustration", 
+            "typography", 
+            "branding"
+        ]
+    },
+    {
+        "id": 16,
+        "category": "Illustration",
+        "avatar": "https://cdn.dribbble.com/users/59947/avatars/normal/5ed2865a861fcd2bc9f9d9aff7600f8b.jpg?1574070463",
+        "images": [
+            "https://cdn.dribbble.com/users/59947/avatars/normal/5ed2865a861fcd2bc9f9d9aff7600f8b.jpg?1574070463", 
+            "https://cdn.dribbble.com/userupload/15493701/file/original-a3341fefd8abd72d032e28491efd8ab6.jpg?resize=752x&vertical=center", 
+            "https://cdn.dribbble.com/userupload/15749589/file/original-d59e7886847ea19992b8eb04ee48d077.gif", 
+            "https://cdn.dribbble.com/userupload/17980699/file/original-d48777df418818a37ce0b4ef439fe8bc.jpg?resize=2048x1536&vertical=center", 
+            "https://cdn.dribbble.com/userupload/17193543/file/original-5a4d8e771fc4b7054680812e77103c1a.jpg?resize=752x&vertical=center"
+        ],
+        "username": "MUTI",
+        "subscription": "Pro",
+        "location": [true, "Cape Town, South Africa"],
+        "pricing": false,
+        "respond_time": 874,
+        "service_availability": [true, 6],
+        "skills_tags": [
+            "icon",
+            "digital painting", 
+            "infographic design", 
+            "lettering", 
+            "animation", 
+            "design", 
+            "typography", 
+            "illustration"
+        ]
+    },
+    {
+        "id": 17,
+        "category": "Branding",
+        "avatar": "https://cdn.dribbble.com/users/3825057/avatars/normal/e3d7cb6ed0671937f1a7226e2cc449f1.png?1581940719",
+        "images": [
+            "https://cdn.dribbble.com/users/1139587/screenshots/14546775/media/c6a7e3727d773ec00d08cb324cffb0c3.png?format=webp&resize=450x338&vertical=center", 
+            "https://cdn.dribbble.com/userupload/13647038/file/still-60426606a01e6f028c90daa80faa94ce.png?format=webp&resize=450x338&vertical=center", 
+            "https://cdn.dribbble.com/userupload/17319224/file/original-437f6ee5bce793dfa80435d74c95040a.png?format=webp&resize=450x338&vertical=center", 
+            "https://cdn.dribbble.com/userupload/6459795/file/original-36c223cc78727054491824fe4aca5081.png?format=webp&resize=450x338&vertical=center", 
+            "https://cdn.dribbble.com/userupload/13474760/file/original-a10a28a6b275a023a105308621028636.png?crop=0x0-1600x1200&format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/17868235/file/original-a8e43492807894165b6f62192bc2383d.png?crop=0x0-1600x1200&format=webp&resize=450x338&vertical=center"
+        ],
+        "username": "Lepisov Branding",
+        "subscription": "Pro",
+        "location": false,
+        "pricing": [true, 1000],
+        "respond_time": 67,
+        "service_availability": [true, 1],
+        "skills_tags": [
+            "design systems",
+            "motion design", 
+            "branding strategy", 
+            "branding identity", 
+            "art direction", 
+            "logo design", 
+            "animation"
+        ]
+    },
+    {
+        "id": 18,
+        "category": "Branding",
+        "avatar": "https://cdn.dribbble.com/users/25514/avatars/normal/070810be04e642201206c8fbdffcbf8a.png?1455536235",
+        "images": [
+            "https://cdn.dribbble.com/userupload/15273585/file/original-ccda6413d153cdb367dd16593d9c5e03.png?format=webp&resize=450x338&vertical=center", 
+            "https://cdn.dribbble.com/users/25514/screenshots/2682539/hulagram-application-branding-ramotion.png?format=webp&resize=450x338&vertical=center", 
+            "https://cdn.dribbble.com/users/25514/screenshots/2893593/media/d047c7ecc40ee45bc28714243455779e.gif?format=webp&resize=450x338&vertical=center", 
+            "https://cdn.dribbble.com/userupload/7074558/file/original-ae6366bd16d468dbe4f912b411964079.png?format=webp&resize=450x338&vertical=center", 
+            "https://cdn.dribbble.com/users/25514/screenshots/17416881/media/678d26f812d3282586e3aa966741e7ba.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/17109993/file/still-93f62a2d498b04216991ebe765cc35c9.png?format=webp&resize=450x338&vertical=center"
+        ],
+        "username": "Ramotion",
+        "subscription": "Pro",
+        "location": [true, "San Francisco, CA"],
+        "pricing": [true, 200],
+        "respond_time": 9,
+        "service_availability": false,
+        "skills_tags": [
+            "user interface (ui)",
+            "website design", 
+            "website", 
+            "corporate brand identity", 
+            "startup branding", 
+            "user experience", 
+            "web app development", 
+            "b2b branding",
+            "landing page",
+            "branding"
+        ]
+    },
+    {
+        "id": 19,
+        "category": "Branding",
+        "avatar": "https://cdn.dribbble.com/users/1126935/avatars/normal/ad950648ff063aa894a8207fc3d58a9c.png?1627235803",
+        "images": [
+            "https://cdn.dribbble.com/userupload/8835830/file/original-06ad52b317285b6bd0289246298ecc82.png?format=webp&resize=450x338&vertical=center", 
+            "https://cdn.dribbble.com/userupload/12618429/file/original-421e7e0bd48c18be92f86a44cae836aa.png?format=webp&resize=450x338&vertical=center", 
+            "https://cdn.dribbble.com/userupload/11741303/file/original-62c47cd67e573b5a02726060618d4ab0.jpg?format=webp&resize=450x338&vertical=center", 
+            "https://cdn.dribbble.com/userupload/16515791/file/original-5f552d2a07778024bab85438330a3cd6.png?format=webp&resize=450x338&vertical=center", 
+            "https://cdn.dribbble.com/users/1126935/screenshots/13871777/media/b6faaae815b37951cd532a91d2e3ce09.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/15640396/file/original-9a110ef16c7de66c3a6961f015a438c5.png?format=webp&resize=450x338&vertical=center"
+        ],
+        "username": "DStudio®",
+        "subscription": "Team",
+        "location": [true, "India"],
+        "pricing": false,
+        "respond_time": 384,
+        "service_availability": [true, 3],
+        "skills_tags": [
+            "website design",
+            "webflow", 
+            "pitch decks", 
+            "landing page", 
+            "web apps", 
+            "user experience", 
+            "user interface (ui)", 
+            "web design",
+            "saas"
+        ]
+    },
+    {
+        "id": 20,
+        "category": "Branding",
+        "avatar": "https://cdn.dribbble.com/users/14268/avatars/normal/fa020abdb5dd6e9d1e6ddb3c1b8259aa.png?1654014190",
+        "images": [
+            "https://cdn.dribbble.com/users/14268/screenshots/6935759/confa_4x.png?format=webp&resize=450x338&vertical=center", 
+            "https://cdn.dribbble.com/users/14268/screenshots/11797012/media/7b12f56ae30b2df29cab3ac3fa4acf8b.png?format=webp&resize=450x338&vertical=center", 
+            "https://cdn.dribbble.com/userupload/2642585/file/original-84e95fed261b7746b3ec81f2dc2d9052.png?format=webp&resize=450x338&vertical=center", 
+            "https://cdn.dribbble.com/users/14268/screenshots/6008035/media/2469a5d78fe3e16268b3e69a28f069ec.png?format=webp&resize=450x338&vertical=center", 
+            "https://cdn.dribbble.com/users/14268/screenshots/6222274/chowbus_4x.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/users/14268/screenshots/14292742/media/2a9e63c57025d652430fb53a35216753.png?format=webp&resize=450x338&vertical=center"
+        ],
+        "username": "Eddie Lobanovskiy",
+        "subscription": "Pro",
+        "location": [true, "Sarasota, FL"],
+        "pricing": false,
+        "respond_time": 59,
+        "service_availability": [true, 7],
+        "skills_tags": [
+            "branding",
+            "typography", 
+            "design"
+        ]
+    },
+    {
+        "id": 21,
+        "category": "Animation",
+        "avatar": "https://cdn.dribbble.com/users/7546696/avatars/normal/60a81dbeadffcef5be9d7b2b5587fd5c.jpg?1664244303",
+        "images": [
+            "https://cdn.dribbble.com/users/1272735/screenshots/15901586/media/fcfd18deae7cfcbb814088bba519b957.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/3779376/file/original-95d7f4fb0ebc9a677fc3a33da78783e1.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/users/1272735/screenshots/19531525/media/b19af8835d53dada13ca4b129550148d.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/3685750/file/original-492779f1883c66bdd0b3a22d4773be23.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/3685803/file/original-3447df703f1527781c8dcad7aaea6c72.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/users/7546696/screenshots/15550038/media/fc493b10210d193566f7a3db3154ecfe.png?format=webp&resize=450x338&vertical=center"
+        ],
+        "username": "Brazilero Animation",
+        "subscription": "Pro",
+        "location": [true, "New York City, NY"],
+        "pricing": [true, 4500],
+        "respond_time": 383,
+        "service_availability": false,
+        "skills_tags": [
+            "concept development",
+            "script writing", 
+            "animation 3d",
+            "animation 2d",
+            "graphic design",
+            "illustration",
+            "motion design"
+        ]
+    },
+    {
+        "id": 22,
+        "category": "Animation",
+        "avatar": "https://cdn.dribbble.com/users/393931/avatars/normal/38775509fbfc5da2f37aee467ef06411.png?1713428282",
+        "images": [
+            "https://cdn.dribbble.com/userupload/14450242/file/still-df6127f3c56f519721692bf23cf329df.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/16377427/file/still-0078198235b0c7f903cac4046bddf364.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/14324125/file/still-269ffdc47824c1d94f00aa9c209b6611.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/2799770/file/still-3985c8b731ae799022549bbd4640489c.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/users/393931/screenshots/17343314/yoodel_animation_7.png?format=webp&resize=450x338&vertical=center"
+        ],
+        "username": "Mihai Dolganiuc",
+        "subscription": "Pro",
+        "location": false,
+        "pricing": false,
+        "respond_time": 2,
+        "service_availability": false,
+        "skills_tags": [
+            "app icon",
+            "corporate brand identity", 
+            "monogram",
+            "wordmark design"
+        ]
+    },
+    {
+        "id": 23,
+        "category": "Animation",
+        "avatar": "https://cdn.dribbble.com/users/10399584/avatars/normal/3e791453014c26375eb45cd0dffe1753.jpg?1686746689",
+        "images": [
+            "https://cdn.dribbble.com/userupload/8527054/file/still-cd599cce22896f08cd7dcb3aff296aa7.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/7790484/file/still-b4a48bc61b4d2d70b4a85a4b7ad54d23.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/9227640/file/still-406296c7217796b6e2970d8f82aa2efc.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/8051742/file/still-db43dd8b48c39808cd6dafe40f77fd8f.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/8369751/file/still-8a2e9d58d8f15bacc5db05a0ca3a9f51.png?format=webp&resize=450x338&vertical=center"
+        ],
+        "username": "Animation Grap",
+        "subscription": "Team",
+        "location": [true, "India"],
+        "pricing": false,
+        "respond_time": 485,
+        "service_availability":[true, 2],
+        "skills_tags": [
+            "logo design",
+            "uiux design", 
+            "illustration",
+            "branding identity",
+            "product design"
+        ]
+    },
+    {
+        "id": 24,
+        "category": "Mobile",
+        "avatar": "https://cdn.dribbble.com/users/12254298/avatars/normal/b198835f409b8dccb9424ea05333f8c1.jpg?1697956794",
+        "images": [
+            "https://cdn.dribbble.com/userupload/3638272/file/still-fd8ddc6b2118a951fb7d46d734187f84.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/3788731/file/still-314a456f386a8bf698d8bd14787bd6d3.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/4158706/file/original-cfe04ced3026fdb1572ba284faa3c12a.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/3638419/file/still-b73fb39034454a66130ddc83e99f41a4.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/4211266/file/still-293159ec09a0a324d28492df25dddeaa.png?format=webp&resize=450x338&vertical=center"
+        ],
+        "username": "Musemind Mobile",
+        "subscription": "Pro",
+        "location": [true, "Dubai, United Arab Emirates"],
+        "pricing": false,
+        "respond_time": 47,
+        "service_availability": [true, 2],
+        "skills_tags": [
+            "ios application design",
+            "app design", 
+            "app",
+            "mobile design"
+        ]
+    },
+    {
+        "id": 25,
+        "category": "Mobile",
+        "avatar": "https://cdn.dribbble.com/users/32512/avatars/normal/b394be60a32a4c82f89c73b0349af025.png?1556087466",
+        "images": [
+            "https://cdn.dribbble.com/userupload/10944748/file/still-893b26aa078f2407a84964a94616fe45.png?resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/15918816/file/still-51d91a2725cfddbcfa5c24358cddd165.png?resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/16195920/file/still-4bde1b1c082bde243ce8eb2ff9b3f200.png?resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/7439990/file/original-a0d4e79da6bf8f3df80bcdbda836d3bd.png?resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/4049455/file/still-c45265965744dc8e1fe1bbc9e824d1f3.png?resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/users/32512/screenshots/4347105/media/5ab9cc43f29f6dbfe6fd04bb74e5ebcc.gif?resize=450x338&vertical=center"
+        ],
+        "username": "Gleb Kuznetsov✈",
+        "subscription": "Pro",
+        "location": [true, "San Francisco, CA"],
+        "pricing": false,
+        "respond_time": 96,
+        "service_availability": false,
+        "skills_tags": [
+            "design systems",
+            "interaction design", 
+            "animation",
+            "automotive",
+            "art direction"
+        ]
+    },
+    {
+        "id": 26,
+        "category": "Mobile",
+        "avatar": "https://cdn.dribbble.com/users/17543311/avatars/normal/c9c68958672969d58b038cf8d2447c05.png?1694804202",
+        "images": [
+            "https://cdn.dribbble.com/users/14268/screenshots/9450523/media/cb1b680632036f9453396651bf9e45df.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/users/14268/screenshots/4735753/igr.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/15147349/file/original-fe7919da36294b085ad492025fc8b32a.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/16152464/file/original-294e9b9c8138bd37f4b9ef8ffa325b0e.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/users/45617/screenshots/10634676/media/7058768655770eaa5c87e995ba1283b7.png?format=webp&resize=450x338&vertical=center"
+        ],
+        "username": "UX Mobile",
+        "subscription": "Pro",
+        "location": [true, "Sarasota, FL"],
+        "pricing": [true, 900],
+        "respond_time": 100,
+        "service_availability": false,
+        "skills_tags": [
+            "branding",
+            "product design", 
+            "branding identity",
+            "logo",
+            "illustration",
+            "ux",
+            "web app design"
+        ]
+    },
+    {
+        "id": 27,
+        "category": "Mobile",
+        "avatar": "https://cdn.dribbble.com/users/2554837/avatars/normal/90522438af4feba5ef21fe54cc40fec4.png?1559397767",
+        "images": [
+            "https://cdn.dribbble.com/userupload/9717428/file/original-33fa58f749aa0ddfe5178a55fa19b682.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/9803887/file/original-b646a2f4c0bb12b67f6c29a3a26000cb.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/users/5195635/screenshots/15453926/media/62fd68d76d86308586fad023d1984f5d.gif?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/3004993/file/original-219b20f4b38d83e08ce48172a29993a4.jpg?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/3001670/file/original-7fdf6feeb03213e56fb766381a02cfd5.jpg?format=webp&resize=450x338&vertical=center"
+        ],
+        "username": "Orizon: UI/UX Design Agency",
+        "subscription": "Team",
+        "location": [true, "Quebec"],
+        "pricing": false,
+        "respond_time": 84,
+        "service_availability": [true, 1],
+        "skills_tags": [
+            "user interface (ui)",
+            "user experience", 
+            "dashboard",
+            "app design"
+        ]
+    },
+    {
+        "id": 28,
+        "category": "Typography",
+        "avatar": "https://cdn.dribbble.com/users/3953515/avatars/normal/4fe63f541d8e2a260579e4ee87b6a7f0.png?1573939449",
+        "images": [
+            "https://cdn.dribbble.com/users/3953515/screenshots/9040786/media/2ee8702a03d8b1d4cb3eac6ba5f90ac7.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/users/3953515/screenshots/9245247/media/0ea241d096292ab6d50a16f849563b4f.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/users/3953515/screenshots/8517005/media/6700c9822c72de40ada4c2e35940f521.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/users/3953515/screenshots/8140534/media/555eaa14bd332c311a9414436c530245.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/users/3953515/screenshots/10000929/media/37dbcddf5eb968c757be183f4466880a.png?format=webp&resize=450x338&vertical=center"
+        ],
+        "username": "Arabic Typography",
+        "subscription": "Pro",
+        "location": [true, "Morocco"],
+        "pricing": false,
+        "respond_time": 385,
+        "service_availability": [true, 5],
+        "skills_tags": [
+            "arabic typography",
+            "arabic colligraphy"
+        ]
+    },
+    {
+        "id": 29,
+        "category": "Typography",
+        "avatar": "https://cdn.dribbble.com/users/310241/avatars/normal/8e567f1769417cdf57ed37b0c40e2fea.jpg?1487712631",
+        "images": [
+            "https://cdn.dribbble.com/userupload/13447000/file/original-5beae22ba7de60fe5115173478f4f46f.jpg?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/users/310241/screenshots/1887605/media/0145c96d99966c1c8feba3474fecd763.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/users/310241/screenshots/10762358/media/ec0456c2be090d1ff4446302b187ccbf.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/users/310241/screenshots/17122713/media/a22aca99333b76e4c03de79bde82f443.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/3486600/file/original-75ee1d803565e5b4a0beb8bab8618366.jpg?format=webp&resize=450x338&vertical=center"
+        ],
+        "username": "Zhenya Artemjev",
+        "subscription": "Pro",
+        "location": [true, "Serbia"],
+        "pricing": false,
+        "respond_time": 4,
+        "service_availability": false,
+        "skills_tags": [
+            "kawaii",
+            "kapanese", 
+            "t shirt design",
+            "doodle art",
+            "doodle",
+            "stickers",
+            "animation 2d"
+        ]
+    },
+    {
+        "id": 30,
+        "category": "Typography",
+        "avatar": "https://cdn.dribbble.com/users/2554837/avatars/normal/90522438af4feba5ef21fe54cc40fec4.png?1559397767",
+        "images": [
+            "https://cdn.dribbble.com/userupload/12201422/file/original-4c8f287c2d18a758e54f5dc327f368ec.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/16123849/file/original-902381d540d205f738b9e607d5a2c479.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/18067495/file/original-c278b5e5566d952e70819c238bbfc19b.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/17373076/file/original-b23415258946f17a2133f09cf2bf5a67.jpg?crop=0x0-5137x3852&format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/14577729/file/still-2b46a3b748a2188d289875090c873a28.png?format=webp&resize=450x338&vertical=center"
+        ],
+        "username": "Orizon: UI/UX Design Agency",
+        "subscription": "Pro",
+        "location": [true, "Quebec"],
+        "pricing": [true, 6200],
+        "respond_time": 95,
+        "service_availability": [true, 9],
+        "skills_tags": [
+            "augmented reality",
+            "marketing", 
+            "3d graphics",
+            "animation"
+        ]
+    },
+    {
+        "id": 31,
+        "category": "Typography",
+        "avatar": "https://cdn.dribbble.com/users/13067411/avatars/normal/cbfdef05e5382fbb9b96800dd439c831.png?1732055714",
+        "images": [
+            "https://cdn.dribbble.com/users/13067411/screenshots/20487196/media/0350c249b7f7f88597f3fddb87ede725.jpg?format=webp&resize=400x300&vertical=center",
+            "https://cdn.dribbble.com/users/13067411/screenshots/20487330/media/a68e99a46809364326e9431df3bc76d5.jpg?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/users/13067411/screenshots/20487239/media/091336e84c3e4c298ef65cdd55f3b379.jpg?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/15683691/file/original-973a9ce99bdef6eb4034bee42d1d17a0.jpg?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/17662608/file/original-f31faf72eb6a2c9d7c40b069d8a033b3.jpg?crop=0x0-792x594&format=webp&resize=450x338&vertical=center"
+        ],
+        "username": "Dingus &Zazzy",
+        "subscription": "Pro",
+        "location": [true, "Canada"],
+        "pricing": false,
+        "respond_time": 405,
+        "service_availability": [true, 6],
+        "skills_tags": [
+            "social media graphics",
+            "copywriting", 
+            "strategy",
+            "newseller design",
+            "collateral",
+            "branding",
+            "graphic design"
+        ]
+    },
+    {
+        "id": 32,
+        "category": "Typography",
+        "avatar": "https://cdn.dribbble.com/users/31503/avatars/normal/534332c5a51ef152a3a7ac5f14d4c24d.jpg?1562345291",
+        "images": [
+            "https://cdn.dribbble.com/userupload/14680893/file/original-a36f95114c88b965beafe7063c7e8011.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/15300569/file/original-5e15610d21a4ffa94d811f7026c2e4b9.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/14737453/file/original-0dbe8a0c05e647ee23e742386ebad7ef.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/users/31503/screenshots/6014332/media/6f7771e08158017b7c806fc07fbf3db8.jpg?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/12443514/file/original-2364d88f3e8fc026e05c2d61069d4c43.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/17104406/file/original-836164dd226ceafdc2804823102b7a41.png?format=webp&resize=450x338&vertical=center"
+        ],
+        "username": "Beth Mathews",
+        "subscription": "Pro",
+        "location": [true, "Los Angeles, CA"],
+        "pricing": false,
+        "respond_time": 885,
+        "service_availability": false,
+        "skills_tags": [
+            "prop design",
+            "conceptual Design", 
+            "packaging design",
+            "brand indentity"
+        ]
+    },
+    {
+        "id": 33,
+        "category": "Typography",
+        "avatar": "https://cdn.dribbble.com/users/3196841/avatars/normal/1500d5a087ab6bc81b7907d5e2b8d5de.png?1679493003",
+        "images": [
+            "https://cdn.dribbble.com/userupload/17788323/file/still-97d504cec2db67ffadcc3cf4b72c2e40.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/17146785/file/still-62fb2880fc3a2cd9698affb7dcf8f5c7.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/17332693/file/original-addf7009ad1fabb0b846319db57aeac0.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/16996820/file/original-dd2b3f4f468068a443d71b34bdfe7625.jpg?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/17629532/file/original-a384922fb3f53d31d8e8684bf723eb88.png?format=webp&resize=450x338&vertical=center"
+        ],
+        "username": "Qream",
+        "subscription": "Pro",
+        "location": [true, "Kyiv, Ukraine"],
+        "pricing": [true, 950],
+        "respond_time": 34,
+        "service_availability": [true, 4],
+        "skills_tags": [
+            "strategy",
+            "tech", 
+            "identity design",
+            "website",
+            "logo",
+            "web design",
+            "user research"
+        ]
+    },
+    {
+        "id": 34,
+        "category": "Print",
+        "avatar": "https://cdn.dribbble.com/users/74401/avatars/normal/STEVA_konstantan_200_X_200_PX.gif?1398280495",
+        "images": [
+            "https://cdn.dribbble.com/users/74401/screenshots/3633733/modle-print.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/8376963/file/original-a720c93170c59288adf80221765f3668.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/users/74401/screenshots/4628062/media/a24cc2918f378f9c0181b0f8be463fdb.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/users/74401/screenshots/1916533/081z0943_copy.jpg?format=webp&resize=400x300&vertical=center",
+            "https://cdn.dribbble.com/userupload/14031887/file/original-53047e4cfb9437aa7bc839dccb0b0cfe.png?format=webp&resize=450x338&vertical=center"
+        ],
+        "username": "Stevan Rodic",
+        "subscription": "Pro",
+        "location": [true, "Belgrade, Serbia"],
+        "pricing": false,
+        "respond_time": 958,
+        "service_availability": false,
+        "skills_tags": [
+            "typography",
+            "icon", 
+            "branding",
+            "illustration"
+        ]
+    },
+    {
+        "id": 35,
+        "category": "Print",
+        "avatar": "https://cdn.dribbble.com/users/1247975/avatars/normal/7b9a3bf4fda1996d6e9536ade6d949b6.png?1576617778",
+        "images": [
+            "https://cdn.dribbble.com/userupload/12768728/file/original-e18755cdd743e1fb6bd405dc76f8419f.jpg?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/13380765/file/original-22062a385871f02223c1638a6f548e37.jpg?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/12360159/file/original-78816d228edd83d2776c5285215b75dd.jpg?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/users/1247975/screenshots/14628971/media/8be8b86b3d7dc966d407b6c1f6776e01.jpg?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/12664623/file/original-5488fb4497848eba081a6f5eb760be1a.png?format=webp&resize=450x338&vertical=center"
+        ],
+        "username": "Damian Orellana",
+        "subscription": "Pro",
+        "location": [true, "Brooklyn, NY"],
+        "pricing": false,
+        "respond_time": 3304,
+        "service_availability": [true, 6],
+        "skills_tags": [
+            "print design",
+            "typography", 
+            "icon",
+            "budges",
+            "package design",
+            "adobe illustrator"
+        ]
+    },
+    {
+        "id": 36,
+        "category": "Print",
+        "avatar": "https://cdn.dribbble.com/users/1322388/avatars/normal/3dee634693824f6d71252f8d56bc917d.jpg?1609764965",
+        "images": [
+            "https://cdn.dribbble.com/userupload/16626269/file/original-deaf7a288dad5d81cca07dad5b968a97.jpg?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/17631357/file/original-feb027e0c93e76ab41992caa922b3a9d.jpg?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/users/1322388/screenshots/17069188/media/07fe1c3d271b18ec7ef01266ac7d1325.jpg?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/14802417/file/original-e6a23950562a6e665e52096347a05d1b.jpg?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/17089972/file/original-76fe3cf741c6408bcb05711d93362263.jpg?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/users/1322388/screenshots/15048384/media/28be812dcd6b7790887e6c805e90ce36.jpg?format=webp&resize=450x338&vertical=center"
+        ],
+        "username": "Alex Krugli",
+        "subscription": "Pro",
+        "location": [true, "Novi Sad, Serbia"],
+        "pricing": [true, 3000],
+        "respond_time": 1,
+        "service_availability": [true, 2],
+        "skills_tags": [
+            "web illustration",
+            "2d illustration", 
+            "vector graphics",
+            "product illustration"
+        ]
+    },
+    {
+        "id": 37,
+        "category": "Print",
+        "avatar": "https://cdn.dribbble.com/users/1839714/avatars/normal/5db2b228923c18c6fda019e83414b63b.jpg?1634078537",
+        "images": [
+            "https://cdn.dribbble.com/users/1839714/screenshots/19373389/media/433164c7e9322bb45d44e59ac1c22618.jpg?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/users/1839714/screenshots/16360947/media/0469ce3c51a498b4a3ce905d18e919ba.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/users/1839714/screenshots/16221827/media/7e52680baed2d26fb0fb1d474924812c.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/users/1839714/screenshots/18705927/media/a6e92ee2e10937180ab08724f5c22784.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/users/1839714/screenshots/18758334/media/69554c90b1956fc8faffe74dc164ac52.png?format=webp&resize=450x338&vertical=center"
+        ],
+        "username": "Erin English",
+        "subscription": "Pro",
+        "location": [true, "United States"],
+        "pricing": false,
+        "respond_time": 585,
+        "service_availability": false,
+        "skills_tags": [
+            "adobe illustrator",
+            "logo design", 
+            "brand indentity",
+            "graphic design",
+            "branding strategy",
+            "figma"
+        ]
+    },
+    {
+        "id": 38,
+        "category": "Print",
+        "avatar": "https://cdn.dribbble.com/users/330915/avatars/normal/f27402d0fcab80d8b369e7fee1151348.jpg?1719399708",
+        "images": [
+            "https://cdn.dribbble.com/userupload/8515487/file/original-b082592ec68546ba7b41f4f4eecbddf1.jpg?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/users/330915/screenshots/3244442/media/afdeb84a8aa50179ccb740ecd95d5885.gif?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/15292209/file/still-6273f93ed581484d34fec1a438671c9c.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/15887226/file/original-8bca7b6bee18b4d921c34486023dc4f9.jpg?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/14226566/file/still-5fd132c04a991b2569a263bb84f74f77.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/11679914/file/still-93ec2c84bbed7e62a6782f3227f6b5bc.png?format=webp&resize=450x338&vertical=center"
+        ],
+        "username": "Guillaume Kurkdjian",
+        "subscription": "Pro",
+        "location": [true, "Paris, France"],
+        "pricing": [true, 5500],
+        "respond_time": 477,
+        "service_availability": false,
+        "skills_tags": [
+            "2d",
+            "3d", 
+            "illustration",
+            "animation"
+        ]
+    },
+    {
+        "id": 39,
+        "category": "Print",
+        "avatar": "https://cdn.dribbble.com/users/4540442/avatars/normal/5ffba4c3589dd2cab71f61dad773d40f.png?1697203358",
+        "images": [
+            "https://cdn.dribbble.com/users/4540442/screenshots/10844117/media/c8456294beb2fa663ed4d3b58a88aa5e.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/17350541/file/original-0414302e759f37787e504b3953a55444.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/2623053/file/original-1d3d6543fbac033aea4633b7f0017b45.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/users/4540442/screenshots/14347546/media/35ac290cc2dda158e4581f134fd03c97.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/11299008/file/still-a6b877a45b28cc0c559b1ef3c8aca743.png?format=webp&resize=450x338&vertical=center"
+        ],
+        "username": "Halo Branding",
+        "subscription": "Pro",
+        "location": [true, "London, United Kingdom"],
+        "pricing": false,
+        "respond_time": 86,
+        "service_availability": [true, 4],
+        "skills_tags": [
+            "logomaker",
+            "business development", 
+            "icons",
+            "identity and branding",
+            "logo",
+            "branding",
+            "graphic design"
+        ]
+    },
+    {
+        "id": 40,
+        "category": "Print",
+        "avatar": "https://cdn.dribbble.com/users/31506/avatars/normal/3185ffb41aad6d71d2f2ea642ec0f494.jpg?1731936767",
+        "images": [
+            "https://cdn.dribbble.com/userupload/13764423/file/original-d488b955854bb5947e4de31798006835.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/13842684/file/original-4f772a43aedf82950155f8bf32bcc5cf.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/users/31506/screenshots/5404035/media/c8ed80736221dcf6770f8c83035cfad8.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/users/31506/screenshots/4463264/media/168420fedce8aa6ea67988c1ca29f806.jpg?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/userupload/13707247/file/original-6a39a29e07d0b0c912035335b7e145de.png?format=webp&resize=450x338&vertical=center",
+            "https://cdn.dribbble.com/users/31506/screenshots/9782289/media/fb65bf7336f082f533f164b23aa0a651.png?format=webp&resize=450x338&vertical=center"
+        ],
+        "username": "Gregory Grigoriou",
+        "subscription": "Team",
+        "location": [true, "Old Saybrook, CT"],
+        "pricing": [true, 8000],
+        "respond_time": 33,
+        "service_availability": [true, 2],
+        "skills_tags": [
+            "art",
+            "identity systems", 
+            "merch design",
+            "monogram",
+            "icon",
+            "lettering",
+            "brand identity",
+            "logo",
+            "vector graphics"
+        ]
+    }
+]

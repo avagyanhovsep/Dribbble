@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <defs>
+    <linearGradient id="gradient1" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#0ACF83" />
+      <stop offset="100%" stop-color="#00A76F" />
+    </linearGradient>
+    <linearGradient id="gradient2" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#A259FF" />
+      <stop offset="100%" stop-color="#7732FF" />
+    </linearGradient>
+    <linearGradient id="gradient3" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#F24E1E" />
+      <stop offset="100%" stop-color="#B81702" />
+    </linearGradient>
+    <linearGradient id="gradient4" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FF7262" />
+      <stop offset="100%" stop-color="#F20000" />
+    </linearGradient>
+    <linearGradient id="gradient5" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ABCFE" />
+      <stop offset="100%" stop-color="#0D99FF" />
+    </linearGradient>
+  </defs>
+  <g fill="none">
+    <circle cx="76" cy="76" r="76" fill="url(#gradient1)" />
+    <circle cx="180" cy="76" r="76" fill="url(#gradient2)" />
+    <circle cx="76" cy="180" r="76" fill="url(#gradient3)" />
+    <circle cx="180" cy="180" r="76" fill="url(#gradient4)" />
+    <circle cx="128" cy="128" r="76" fill="url(#gradient5)" />
+  </g>
+</svg>

@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "avatar": "https://cdn.dribbble.com/userupload/17191934/file/still-76724cd340a87bc6fdbc9b7b406bce18.png?format=webp&resize=320x240&vertical=center",
+        "title": "Typography",
+        "back_overlay": ["#E6FBFE", "#DDFDE8"]
+    },
+    {
+        "id": 2,
+        "avatar": "https://cdn.dribbble.com/userupload/17052020/file/original-9eef05e33b21517f04f5151143f4539b.jpg?crop=0x0-5000x3750&format=webp&resize=320x240&vertical=center",
+        "title": "Print",
+        "back_overlay": ["#E3EBFD", "#EDF3D8"]
+    },
+    {
+        "id": 3,
+        "avatar": "https://cdn.dribbble.com/userupload/17388038/file/still-d167229decc1b12695c9988cdbde62b1.png?format=webp&resize=320x240&vertical=center",
+        "title": "Animation",
+        "back_overlay": ["#EDDDFB", "#DDFDE8"]
+    },
+    {
+        "id": 4,
+        "avatar": "https://cdn.dribbble.com/userupload/17059756/file/original-cabc1f3c118a87e424bc97a8bc5f5266.jpg?crop=215x0-2542x1745&format=webp&resize=320x240&vertical=center",
+        "title": "Branding",
+        "back_overlay": ["#E6FBFE", "#EDF3D8"]
+    },
+    {
+        "id": 5,
+        "avatar": "https://cdn.dribbble.com/userupload/17182960/file/original-5d5497d4d97b97553c13d234ed89e2f6.png?format=webp&resize=320x240&vertical=center",
+        "title": "Illustration",
+        "back_overlay": ["#E6FDC9", "#EDF3D8"]
+    },
+    {
+        "id": 6,
+        "avatar": "https://cdn.dribbble.com/userupload/17246273/file/original-c32d0fc186bb93be415ef8dc48baa62e.png?format=webp&resize=320x240&vertical=center",
+        "title": "Web Design",
+        "back_overlay": ["#EDF3D8", "#EDDDFB"]
+    },
+    {
+        "id": 7,
+        "avatar": "https://cdn.dribbble.com/userupload/17112464/file/original-a9d5a1b369d4a3fb1a2387a6123ccffd.png?format=webp&resize=320x240&vertical=center",
+        "title": "Mobile",
+        "back_overlay": ["#F6D9FB", "#E3EBFD"]
+    },
+    {
+        "id": 8,
+        "avatar": "https://cdn.dribbble.com/userupload/17266793/file/original-acdb6337f839133eacd2a3a3b7bb85a8.png?format=webp&resize=320x240&vertical=center",
+        "title": "Product Design",
+        "back_overlay": ["#DDFDE8", "#EDF3D8"]
+    }
+]

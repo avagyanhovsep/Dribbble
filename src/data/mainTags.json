@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "tag_name": "landing page"
+    },
+    {
+        "id": 2,
+        "tag_name": "e-commerce"
+    },
+    {
+        "id": 3,
+        "tag_name": "mobile app"
+    },
+    {
+        "id": 4,
+        "tag_name": "logo design"
+    },
+    {
+        "id": 5,
+        "tag_name": "dashboard"
+    },
+    {
+        "id": 6,
+        "tag_name": "icons"
+    }
+]
